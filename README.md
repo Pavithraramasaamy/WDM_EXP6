@@ -1,4 +1,4 @@
-### EX6 Information Retrieval Using Vector Space Model in Python
+### EX-06 Information Retrieval Using Vector Space Model in Python
 ### NAME: PAVITHRA R
 ### REGISTER NUMBER: 212222230106
 ### DATE: 28/09/2024
