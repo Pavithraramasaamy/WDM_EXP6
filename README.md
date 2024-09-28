@@ -90,7 +90,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 
 ### Output:
 
-![imagewdm](https://github.com/user-attachments/assets/7efa0a6a-1c8f-4e84-87fb-40ea2e0dcd8f)
+![image](https://github.com/user-attachments/assets/9314662c-fd89-4ebe-bfd2-0d69276e23a1)
 
 ### Result:
 Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
